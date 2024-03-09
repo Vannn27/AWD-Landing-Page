@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Notifacation_Bell"
+		},
+		{
+			"path": "../Seatwork_Slide_Puzzle"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Seatwork_Slide_Puzzle"
+	}
+}
